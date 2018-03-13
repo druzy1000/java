@@ -1,0 +1,5 @@
+#include
+
+The idea of the Iterator is that via the iterator method, each collection can create, and
+return to the client, an object that implements the Iterator interface and stores internally
+its notion of a current position.

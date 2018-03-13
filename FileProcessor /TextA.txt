@@ -1,0 +1,4 @@
+#include
+
+In order to avoid the linear cost of insertion and deletion, we need to ensure that the list
+is not stored contiguously, since otherwise entire parts of the list will need to be moved.

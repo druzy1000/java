@@ -1,0 +1,7 @@
+#include
+
+There are several possible ideas for an algorithm that deletes items from the list as
+they are encountered. Of course, one idea is to construct a new list containing all the odd
+numbers, and then clear the original list and copy the odd numbers back into it. But we are
+more interested in writing a clean version that avoids making a copy and instead removes
+items from the list as they are encountered.
